@@ -1,6 +1,10 @@
+#OKEKE TOBENNA DENNING
+#2019364052
+#ELECTRONICS AND COMPUTER ENGINEERING 
+#ECE 331
+#SPEECH TO TEXT PROJECT
+
 import speech_recognition as sr
-import random
-import time
 
 
 print(sr.__version__)
